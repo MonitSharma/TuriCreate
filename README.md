@@ -10,7 +10,7 @@ Quick Links: [Installation](#supported-platforms) | [Documentation](#documentati
 
 # Turi Create 
 
-Check out our talks at [WWDC 2019](https://developer.apple.com/videos/play/wwdc2019/420/) and at [WWDC 2018](https://developer.apple.com/videos/play/wwdc2018/712/)!
+Check out talks at [WWDC 2019](https://developer.apple.com/videos/play/wwdc2019/420/) and at [WWDC 2018](https://developer.apple.com/videos/play/wwdc2018/712/)!
 
 Turi Create simplifies the development of custom machine learning models. You
 don't have to be a machine learning expert to add recommendations, object
