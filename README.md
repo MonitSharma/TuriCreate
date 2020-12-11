@@ -85,11 +85,7 @@ Turi Create requires:
 * x86\_64 architecture
 * At least 4 GB of RAM
 
-Installation
-------------
 
-For detailed instructions for different varieties of Linux see [LINUX\_INSTALL.md](LINUX_INSTALL.md).
-For common installation issues see [INSTALL\_ISSUES.md](INSTALL_ISSUES.md).
 
 We recommend using virtualenv to use, install, or build Turi Create. 
 
@@ -142,18 +138,5 @@ Turi Create **does not require a GPU**, but certain models can be accelerated 9-
 | Sound Classification      |                      |                                                          |
 | Style Transfer            |                      |                                                          |
 
-macOS GPU support is automatic. For Linux GPU support, see [LinuxGPU.md](LinuxGPU.md).
 
-Building From Source
----------------------
-
-If you want to build Turi Create from source, see [BUILD.md](BUILD.md).
-
-Contributing
-------------
-
-Prior to contributing, please review [CONTRIBUTING.md](CONTRIBUTING.md) and do
-not provide any contributions unless you agree with the terms and conditions
-set forth in [CONTRIBUTING.md](CONTRIBUTING.md).
-
-We want the Turi Create community to be as welcoming and inclusive as possible, and have adopted a [Code of Conduct](CODE_OF_CONDUCT.md) that we expect all community members, including contributors, to read and observe.
+For more details check https://github.com/apple/turicreate
